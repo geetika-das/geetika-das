@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @geetika-das
+- 👋 Hi, I’m @geetikadasgrid
 - 👀 I’m interested in ...Coding and Learning.
 - 🌱 I’m currently learning React Development
 - 💞️ I’m looking to collaborate on frontend developement practices.
